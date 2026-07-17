@@ -23,8 +23,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gregoryajish&show_icons=true&hide_border=true&theme=transparent" width="48%" alt="GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoryajish&layout=compact&hide_border=true&theme=transparent" width="40%" alt="Top languages"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gregoryajish&theme=github_dark" width="48%" alt="GitHub statistics"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gregoryajish&theme=github_dark" width="48%" alt="Repository languages"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=gregoryajish&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity"/>
 
