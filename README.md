@@ -13,13 +13,13 @@
 
 ---
 
-### Currently
+### <img src="https://api.iconify.design/lucide:radio.svg?color=%232E9EF7" width="20" height="20" align="absmiddle"/> Currently
 
 Summer Intern at **IIIT Kottayam** — building an image laundering detection pipeline (Python, Stable Diffusion, CNNs) to distinguish pristine, laundered, and AI-generated images.
 
 ---
 
-### Projects
+### <img src="https://api.iconify.design/lucide:folder-git-2.svg?color=%232E9EF7" width="20" height="20" align="absmiddle"/> Projects
 
 #### Certify — Blockchain-Based Certificate Verification System
 `React · Node.js · PostgreSQL · Solidity · Hardhat`
@@ -35,7 +35,7 @@ Electronic voting system deployed across seven election cycles in two schools �
 
 ---
 
-### Tech Stack
+### <img src="https://api.iconify.design/lucide:cpu.svg?color=%232E9EF7" width="20" height="20" align="absmiddle"/> Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,py,java,js,react,html,css,vite,nodejs,express,postgres,mysql,sqlite,supabase,solidity,git,github,linux" />
@@ -43,7 +43,7 @@ Electronic voting system deployed across seven election cycles in two schools �
 
 ---
 
-### GitHub Stats
+### <img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%232E9EF7" width="20" height="20" align="absmiddle"/> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gregoryajish&theme=tokyonight&hide_border=true" alt="streak stats"/>
