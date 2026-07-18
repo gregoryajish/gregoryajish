@@ -1,128 +1,60 @@
-<div align="center">
+<h1 align="center">Hi, I'm Gregory Ajish 👋</h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/header-v1.svg"/>
-  <img src="assets/header-v1.svg" alt="Gregory Ajish — Full-Stack Developer & Blockchain Enthusiast"/>
-</picture>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Code.+Build.+Repeat.;4th+Year+CSE+%40+MACE;Full-Stack+%26+Blockchain+Developer" alt="Typing SVG" />
+</p>
 
-<br>
-
-<a href="https://drive.google.com/file/d/1aADLnoPASogJ_Kb_qrrn4RK1OfFBABZ8/view?usp=sharing">
-  <img src="https://img.shields.io/badge/RESUME-ffffff?style=flat-square&logo=adobeacrobatreader&logoColor=000000" alt="Resume"/>
-</a>
-<a href="https://www.linkedin.com/in/gregory-ajish/">
-  <img src="https://img.shields.io/badge/LINKEDIN-ffffff?style=flat-square&logo=linkedin&logoColor=000000" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/gregoryajish/">
-  <img src="https://img.shields.io/badge/INSTAGRAM-ffffff?style=flat-square&logo=instagram&logoColor=000000" alt="Instagram"/>
-</a>
-<a href="mailto:gregoryajish100@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-ffffff?style=flat-square&logo=gmail&logoColor=000000" alt="Email"/>
-</a>
-<a href="https://leetcode.com/u/lazyhash/">
-  <img src="https://img.shields.io/badge/LEETCODE-ffffff?style=flat-square&logo=leetcode&logoColor=000000" alt="LeetCode"/>
-</a>
-
-</div>
+<p align="center">
+  <a href="https://linkedin.com/in/gregory-ajish"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:gregoryajish100@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/lazyhash"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+</p>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/whoami.svg"/>
-  <img src="assets/whoami.svg" alt="01 — Who Am I"/>
-</picture>
+### 🔭 Currently
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/ecosystem.svg"/>
-  <img src="assets/ecosystem.svg" alt="02 — System Map"/>
-</picture>
+Summer Intern at **IIIT Kottayam** — building an image laundering detection pipeline (Python, Stable Diffusion, CNNs) to distinguish pristine, laundered, and AI-generated images.
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/projects.svg"/>
-  <img src="assets/projects.svg" alt="03 — Projects"/>
-</picture>
+### 🚀 Projects
 
-<div align="center">
+**Certify** — Blockchain-Based Certificate Verification System
+`React · Node.js · PostgreSQL · Solidity · Hardhat`
+Blockchain-based certificate issuance and verification platform for secure academic credentials — SHA-256 hashing, Ethereum smart contracts, MetaMask auth, digital signatures, QR verification, and signed PDF generation.
 
-### CERTIFY
+**OneHub** — Event & Volunteer Management Platform
+`React · Node.js · Express · Supabase · PostgreSQL`
+Full-stack platform for event management, volunteer coordination, and attendance tracking, with secure REST APIs, role-based access control, and QR-based attendance.
 
-**Blockchain-Based Certificate Verification System**
-
-React • Node.js • PostgreSQL • Solidity • Hardhat
-
-<br>
-
-### EAZYVOTE
-
-**Electronic Voting System**
-
-Python • Tkinter • MySQL • TCP Socket Programming
-
-Originally built in **2022** and later upgraded with networking capabilities for centralized real-time vote synchronization.
-
-<br>
-
-### ONEHUB
-
-**Event & Volunteer Management Platform**
-
-Full-Stack Web Application for managing events, volunteers, and participation.
-
-Built in **2024**.
-
-</div>
+**EasyVote** — Electronic Voting System
+`Python (Tkinter) · MySQL · TCP Socket Programming`
+Electronic voting system deployed across seven election cycles in two schools — secure vote management with TCP socket networking for centralized real-time sync, cutting result generation from hours to seconds.
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/telemetry.svg"/>
-  <img src="assets/telemetry.svg" alt="04 — Telemetry"/>
-</picture>
+### 🧰 Tech Stack
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gregoryajish&theme=github_dark" width="48%" alt="GitHub statistics"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gregoryajish&theme=github_dark" width="48%" alt="Repository languages"/>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gregoryajish&bg_color=ffffff&color=000000&line=000000&point=000000&area_color=000000&area=true&hide_border=true&radius=0&custom_title=CONTRIBUTION%20TELEMETRY" width="97%" alt="GitHub contribution activity"/>
-
-<br>
-
-<img src="https://leetcard.jacoblin.cool/lazyhash?theme=light&font=Baloo%202&ext=heatmap" width="97%" alt="LeetCode progress"/>
-
-</div>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,py,java,js,react,html,css,vite,nodejs,express,postgres,mysql,sqlite,supabase,solidity,git,github,linux" />
+</p>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/timeline.svg"/>
-  <img src="assets/timeline.svg" alt="05 — The Route"/>
-</picture>
+### 📊 GitHub Stats
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/build-log.svg"/>
-  <img src="assets/build-log.svg" alt="06 — Build Log"/>
-</picture>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gregory-ajish&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregory-ajish&layout=compact&hide_border=true" />
+</p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/stack.svg"/>
-  <img src="assets/stack.svg" alt="07 — Stack"/>
-</picture>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gregory-ajish&hide_border=true" alt="streak stats"/>
+</p>
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/dark/footer.svg"/>
-  <img src="assets/footer.svg" alt="Current Status"/>
-</picture>
-
-<div align="center">
-
-### BUILD. LEARN. SOLVE.
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gregory-ajish&label=Profile+Views&color=2E9EF7&style=flat" alt="profile views" />
+</p>
