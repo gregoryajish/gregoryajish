@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Gregory Ajish ðŸ‘‹</h1>
+<h1 align="center">Hi, I'm Gregory Ajish</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Code.+Build.+Repeat.;4th+Year+CSE+%40+MACE;Full-Stack+%26+Blockchain+Developer" alt="Typing SVG" />
@@ -44,11 +44,6 @@ Electronic voting system deployed across seven election cycles in two schools â€
 ---
 
 ### GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gregoryajish&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoryajish&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gregoryajish&theme=tokyonight&hide_border=true" alt="streak stats"/>
