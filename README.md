@@ -6,6 +6,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/gregory-ajish"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/gregoryajish"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
   <a href="mailto:gregoryajish100@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://leetcode.com/lazyhash"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
 </p>
@@ -20,15 +21,15 @@ Summer Intern at **IIIT Kottayam** — building an image laundering detection pi
 
 ### 🚀 Projects
 
-**Certify** — Blockchain-Based Certificate Verification System
+#### 🔐 Certify — Blockchain-Based Certificate Verification System
 `React · Node.js · PostgreSQL · Solidity · Hardhat`
 Blockchain-based certificate issuance and verification platform for secure academic credentials — SHA-256 hashing, Ethereum smart contracts, MetaMask auth, digital signatures, QR verification, and signed PDF generation.
 
-**OneHub** — Event & Volunteer Management Platform
+#### 🎟️ OneHub — Event & Volunteer Management Platform
 `React · Node.js · Express · Supabase · PostgreSQL`
 Full-stack platform for event management, volunteer coordination, and attendance tracking, with secure REST APIs, role-based access control, and QR-based attendance.
 
-**EasyVote** — Electronic Voting System
+#### 🗳️ EasyVote — Electronic Voting System
 `Python (Tkinter) · MySQL · TCP Socket Programming`
 Electronic voting system deployed across seven election cycles in two schools — secure vote management with TCP socket networking for centralized real-time sync, cutting result generation from hours to seconds.
 
@@ -45,16 +46,16 @@ Electronic voting system deployed across seven election cycles in two schools �
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gregory-ajish&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregory-ajish&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gregoryajish&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gregoryajish&layout=compact&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gregory-ajish&hide_border=true" alt="streak stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gregoryajish&hide_border=true" alt="streak stats"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gregory-ajish&label=Profile+Views&color=2E9EF7&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=gregoryajish&label=Profile+Views&color=2E9EF7&style=flat" alt="profile views" />
 </p>
